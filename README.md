@@ -2,11 +2,6 @@
 
 # Widgets
 
-# The Button widget.
-
-it contains two variants. 
-# The TextButton
-# The ImageButton
 
 
 # The TextButton
