@@ -5,15 +5,16 @@
 # The Button widget.
 
 it contains two variants. 
--- The TextButton
--- The ImageButton
+# The TextButton
+# The ImageButton
 
 
-// The TextButton just as the name suggests, is a button that displays a text and triggers a particular event when clicked
+# The TextButton
+just as the name suggests, is a button that displays a text and triggers a particular event when clicked
  just like buttons are supposed to. 
 
-it takes ten arguments
-----------------------
+-it takes ten arguments-
+
 
 
 -- the surface to be blitted on
@@ -28,11 +29,12 @@ it takes ten arguments
 -- the associated command to be triggered on button press
 
 
-// The ImageButton just like the previous button is a button that rather than displaying a text, displays and image, it also takes a 
+# The ImageButton
+just like the previous button is a button that rather than displaying a text, displays and image, it also takes a 
 command and that command is executed on button press
 
-it takes seven arguments
-------------------------
+-it takes seven arguments-
+
 
 -- The surface to be blited on
 -- the image you wish to display on the button
